@@ -1,0 +1,214 @@
+{
+  "main": {
+    "name":"Igbe Ajaga",
+    "description":"Welcome! I'm a passionate tech enthusiast weaving innovation through code as a software engineer, while guiding aspiring minds in the dynamic world of IT training",
+    "image":"profilepic.jpg",
+    "bio":"I'm a Software Engineer  who discovers solace and joy in the world of coding. Proficient in multiple programming languages but I've found my niche in JavaScript, specifically with React JS and Next JS. Beyond the code, I'm a seasoned Project Manager, guiding projects meticulously towards success. Embracing manual Software Quality Assurance, I ensure every pixel and function aligns seamlessly with perfection. But there's more to me! Outside the tech realm, you'll find me embracing the challenge of video games, diving into books, and nurturing a treasury of quirky ideas in my mind's playground. Welcome to my digital space—a fusion of precision, creativity, and a sprinkle of curiosity! ",
+    "contactmessage":"I am just an email away. This is our time to work as a team!!!",
+    "email": "ajagaigbe144@gmail.com",
+    "phone": "+2348166517663",
+    "github":"https://github.com/IgbeAjaga",
+    "address":{
+      "street":"Woji Estate",
+      "city":"PortHarcourt",
+      "state":"Rivers",
+      "zip": "500001"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1-TK_nm06FvuQFF_-_iQPKoIm6Nch8W63/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ajaga.igbe",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/IgbeAjaga",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/igbeajaga",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/igbeajaga",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/IgbeAjaga",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my tech skills that you may want to know",
+    "education":[
+      {
+        "school":"ALX",
+        "degree":"Software Engineering",
+        "graduated":"Feburary 2023 - Present",
+        "description":"The ALX software engineering program embodies a rigorous 12-month curriculum encompassing a comprehensive array of disciplines, ranging from low-level and high-level programming to intricate algorithms and database management. The program further delves into system engineering intricacies and networking essentials. Throughout this journey, I've adeptly navigated various programming languages, proficiently crafting solutions with HTML, CSS, JavaScript, C, and Python. Beyond technical prowess, I assumed the mantle of a Project Manager, steering a team of engineers to success. Leveraging Trello as an instrumental project management tool, I orchestrated and optimized collaborative endeavors with finesse and strategic leadership."
+      },
+      {
+        "school":"PAN African Institute of Professional Studies",
+        "degree":"Professional Certification in Web Development, Project Management and Data Analysis",
+        "graduated":"March 2019",
+        "description":"In the realm of web development, I adeptly crafted websites employing a blend of HTML, CSS, JavaScript, and WordPress. Within Project Management, I proficiently utilized Primavera, orchestrating projects seamlessly from inception to execution. In the domain of Data Analysis, post meticulous data collection and refinement, I harnessed the power of SQL and Microsoft Excel to extract actionable insights, empowering strategic decision-making processes."
+      },
+      {
+        "school":"University of Agriculture, Makurdi",
+        "degree":"Bachelor of Science in Statistics and  Computer Science",
+        "graduated":"Feburary 2017",
+        "description":"After consolidating my diverse academic foundations, I elected to specialize in software engineering—an extension of my Computer Science education. I further honed my expertise in data analysis, leveraging my background in Statistics. Additionally, drawing from teachings in both Statistics and Computer Science, I cultivated a profound acumen in Project Management. These educational pursuits collectively form the cornerstone of my professional journey."
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelancing",
+        "title":"Web Developer and Professional Trainer ",
+        "years":"Feburary 2023 - Present",
+        "description":"Proficient Web Developer adept in crafting digital experiences and a seasoned Professional Trainer specializing in Data Analysis, Web Development, and Scratch Programming for young learners. I specialize in delivering engaging and informative training sessions, equipping individuals with the skills needed to excel in these dynamic fields."
+      },
+      {
+        "company":"WeAreHerToFixIt.com",
+        "title":"System Analyst",
+        "years":"April 2021 - January 2023",
+        "description":"Proficient in ensuring the quality assurance of Android, iOS, and web applications, I adeptly engaged with users to gather valuable feedback for app enhancement. Additionally, I efficiently handled administrative duties integral to the app development process."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React JS",
+        "level":"98%"
+      },
+      {
+        "name":"HTML",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"SQL",
+        "level":"100%"
+      },
+      {
+        "name":"WordPress",
+        "level":"100%"
+      },
+      {
+        "name":"Github",
+        "level":"100%"
+      },
+      {
+        "name":"Project Management",
+        "level":"100%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Next JS",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"40%"
+      },
+      {
+        "name":"Graphic Design",
+        "level":"95%"
+      },
+      {
+        "name":"Data Analysis",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"View Mental Health App",
+        "category":"React",
+        "image":"01.jpg",
+        "url":"https://comfort-connect-33fad.web.app"
+      },
+      {
+        "title":"Mental Health App - React JS",
+        "category":"React",
+        "image":"02.jpg",
+        "url":"https://comfort-connect-33fad.web.app"
+      },
+      {
+        "title":"Mental Health App - React JS",
+        "category":"React",
+        "image":"03.jpg",
+        "url":"https://comfort-connect-33fad.web.app"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"04.jpg",
+        "url":"https://igbeajaga.github.io/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"05.jpg",
+        "url":"https://igbeajaga.github.io/"
+      },
+      {
+        "title":"NutriLife",
+        "category":"A React based resume website",
+        "image":"13.jpg",
+        "url":"https://nutri-life-2861a.web.app/"
+      },
+      {
+        "title":"Youtube Clone",
+        "category":"React",
+        "image":"07.jpg",
+        "url":"https://clone-c774f.web.app"
+      },
+      {
+        "title":"Facebook Clone - Firebase Auth",
+        "category":"React",
+        "image":"08.jpg",
+        "url":"https://facebook-clone-e388c.web.app/"
+      },
+      {
+        "title":"Facebook Clone",
+        "category":"React",
+        "image":"09.jpg",
+        "url":"https://facebook-clone-e388c.web.app/"
+      },
+      {
+        "title":"Mental health App - Next JS",
+        "category":"A React based resume website template",
+        "image":"10.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Mental health App - Next JS",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"11.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Mental health App - Next JS",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"12.jpg",
+        "url":"#"
+      }
+    ]
+  }
+}

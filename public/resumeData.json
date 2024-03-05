@@ -144,6 +144,18 @@
         "url":"https://comfort-connect-33fad.web.app"
       },
       {
+        "title":"NutriLife",
+        "category":"A React based resume website",
+        "image":"13.jpg",
+        "url":"https://nutri-life-2861a.web.app/"
+      },
+      {
+        "title":"Facebook Clone - Firebase Auth",
+        "category":"React",
+        "image":"08.jpg",
+        "url":"https://facebook-clone-e388c.web.app/"
+      },
+      {
         "title":"Mental Health App - React JS",
         "category":"React",
         "image":"02.jpg",
@@ -156,35 +168,23 @@
         "url":"https://comfort-connect-33fad.web.app"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website",
-        "image":"04.jpg",
-        "url":"https://igbeajaga.github.io/"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website",
-        "image":"05.jpg",
-        "url":"https://igbeajaga.github.io/"
-      },
-      {
-        "title":"NutriLife",
-        "category":"A React based resume website",
-        "image":"13.jpg",
-        "url":"https://nutri-life-2861a.web.app/"
-      },
-      {
         "title":"Youtube Clone",
         "category":"React",
         "image":"07.jpg",
         "url":"https://clone-c774f.web.app"
       },
       {
-        "title":"Facebook Clone - Firebase Auth",
-        "category":"React",
-        "image":"08.jpg",
-        "url":"https://facebook-clone-e388c.web.app/"
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"04.jpg",
+        "url":"https://igbeajaga.github.io/portfolio/"
       },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"05.jpg",
+        "url":"https://igbeajaga.github.io/portfolio/"
+      },   
       {
         "title":"Facebook Clone",
         "category":"React",

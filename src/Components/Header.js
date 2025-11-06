@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
-import Fade from "react-reveal/Fade";
+import { Fade } from "react-awesome-reveal";
 
 class Header extends Component {
   render() {
@@ -30,8 +30,8 @@ class Header extends Component {
             </li>
 
             <li>
-              <a className="smoothscroll" href="#about">
-                About
+              <a className="smoothscroll" href="#portfolio">
+                Works
               </a>
             </li>
 
@@ -39,13 +39,13 @@ class Header extends Component {
               <a className="smoothscroll" href="#resume">
                 Resume
               </a>
-            </li>
+            </li>  
 
             <li>
-              <a className="smoothscroll" href="#portfolio">
-                Works
+              <a className="smoothscroll" href="#about">
+                About
               </a>
-            </li>
+            </li>                      
 
             <li>
               <a className="smoothscroll" href="#contact">
@@ -57,14 +57,17 @@ class Header extends Component {
 
         <div className="row banner">
           <div className="banner-text">
-            <Fade bottom>
+            <Fade direction="up" duration={1000} triggerOnce>
               <h1 className="responsive-headline">{name}</h1>
             </Fade>
-            <Fade bottom duration={1200}>
+
+            <Fade direction="up" duration={1200} triggerOnce>
               <h3>{description}.</h3>
             </Fade>
+
             <hr />
-            <Fade bottom duration={2000}>
+
+            <Fade direction="up" duration={2000} triggerOnce>
               <ul className="social">
                 <a href={github} className="button btn github-btn">
                   <i className="fa fa-github"></i>Github

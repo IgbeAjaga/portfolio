@@ -1,8 +1,9 @@
 import React, { Component } from "react";
-import Fade from "react-reveal";
+import { Fade } from "react-awesome-reveal";
 import "../css/Portfolio.css";
 
 let id = 0;
+
 class Portfolio extends Component {
   render() {
     if (!this.props.data) return null;
@@ -13,9 +14,8 @@ class Portfolio extends Component {
       return (
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
-          <img src={projectImage} alt={project.title} className="portfolio-image"/>
+            <img src={projectImage} alt={project.title} className="portfolio-image" />
             <a href={project.url} target="_blank" rel="noopener noreferrer">
-              
               <div style={{ textAlign: "center" }}>{project.title}</div>
             </a>
           </div>
@@ -25,7 +25,7 @@ class Portfolio extends Component {
 
     return (
       <section id="portfolio">
-        <Fade left duration={1000} distance="40px">
+        <Fade direction="left" duration={1000} triggerOnce>
           <div className="row">
             <div className="twelve columns collapsed">
               <h1>Check Out Some of My Works.</h1>

@@ -2,7 +2,7 @@
   "main": {
     "name":"Igbe Ajaga",
     "description":"Hello and welcome! I'm a software engineer and a data analyst who loves turning ideas into digital reality. When I'm not writing code, I’m helping others break into tech through hands-on IT training and mentorship.",
-    "image":"profilepic.jpg",
+    "image":"profilepic.jpeg",
     "bio":"I'm a multi-disciplinary Software Engineer with strong expertise in Laravel, WordPress, React js, and Data Analysis using Microsoft Excel. I bridge both development and business logic — building full-stack applications, custom WordPress solutions, and modern frontend experiences while also extracting insights from data to guide smarter decisions. Beyond engineering, I'm an IT Professional Trainer, helping individuals and teams develop practical skills in programming, web development, software tools, and digital workflows. I build, I teach, and I improve systems — whether it's writing backend logic, crafting UI components, or simplifying complex technical concepts for learners. My work blends clean development, structured thinking, and real-world problem solving, backed by experience in project execution and software quality assurance. Outside the screen, I explore strategy through games, creativity through writing, and logic through tech experimentation.",
     "contactmessage":"I am just an email away. This is our time to work as a team!!!",
     "email": "ajagaigbe144@gmail.com",
@@ -69,13 +69,7 @@
         "category":"React",
         "image":"19.jpeg",
         "url":"https://www.solveswitch.com/"
-      },
-      {
-        "title":"Accounting (Laravel)",
-        "category":"Laravel",
-        "image":"18.jpeg",
-        "url":"https://cartonapp.shop/"
-      },
+      },      
       {
         "title":"Stock Mgt (Laravel)",
         "category":"Laravel",
@@ -141,6 +135,12 @@
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"12.jpg",
         "url":"#"
+      },
+      {
+        "title":"Accounting (Laravel)",
+        "category":"Laravel",
+        "image":"18.jpeg",
+        "url":"https://cartonapp.shop/"
       }      
     ]
   },

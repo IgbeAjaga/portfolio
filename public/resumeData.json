@@ -59,10 +59,10 @@
         "url":"https://hmedixcrosschecker.com/"
       },
       {
-        "title":"Ecommerce (WordPress)",
+        "title":"Electro Domain - WordPress",
         "category":"WordPress",
-        "image":"16.jpeg",
-        "url":"https://veilnmore.com/"
+        "image":"03.jpg",
+        "url":"https://electro-domain.com/"
       },
       {
         "title":"Tech Firm (React)",
@@ -77,8 +77,8 @@
         "url":"https://hmedixcallcentre.com/"
       },
       {
-        "title":"Mental Health (React)",
-        "category":"React",
+        "title":"CashierPro (Laravel)",
+        "category":"Laravel",
         "image":"01.jpg",
         "url":"https://comfort-connect-33fad.web.app"
       },
@@ -100,12 +100,7 @@
         "image":"02.jpg",
         "url":"https://comfort-connect-33fad.web.app"
       },
-      {
-        "title":"Electro Domain - WordPress",
-        "category":"WordPress",
-        "image":"03.jpg",
-        "url":"https://electro-domain.com/"
-      },
+      
       {
         "title":"Youtube Clone (React)",
         "category":"React",

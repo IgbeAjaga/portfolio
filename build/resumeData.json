@@ -1,0 +1,258 @@
+{
+  "main": {
+    "name":"Igbe Ajaga",
+    "description":"Hello and welcome! I'm a software engineer and a data analyst who loves turning ideas into digital reality. When I'm not writing code, I’m helping others break into tech through hands-on IT training and mentorship.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a multi-disciplinary Software Engineer with strong expertise in Laravel, WordPress, React js, and Data Analysis using Microsoft Excel. I bridge both development and business logic — building full-stack applications, custom WordPress solutions, and modern frontend experiences while also extracting insights from data to guide smarter decisions. Beyond engineering, I'm an IT Professional Trainer, helping individuals and teams develop practical skills in programming, web development, software tools, and digital workflows. I build, I teach, and I improve systems — whether it's writing backend logic, crafting UI components, or simplifying complex technical concepts for learners. My work blends clean development, structured thinking, and real-world problem solving, backed by experience in project execution and software quality assurance. Outside the screen, I explore strategy through games, creativity through writing, and logic through tech experimentation.",
+    "contactmessage":"I am just an email away. This is our time to work as a team!!!",
+    "email": "ajagaigbe144@gmail.com",
+    "phone": "+2348166517663",
+    "github":"https://github.com/IgbeAjaga",
+    "address":{
+      "street":"Woji Estate",
+      "city":"PortHarcourt",
+      "state":"Rivers",
+      "zip": "500001"
+    },
+    "website": " ",
+    "resumedownload":"https://drive.google.com/file/d/1hbkcnsYScBRm_707DbiFGJOYLv07Nl1K/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ajaga.igbe",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/IgbeAjaga",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/igbeajaga",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/igbeajaga",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/IgbeAjaga",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Oil & Gas (WordPress)",
+        "category":"WordPress",
+        "image":"14.jpeg",
+        "url":"https://jocalshinternational.com/"
+      },
+      {
+        "title":"Real Estate (WordPress)",
+        "category":"WordPress",
+        "image":"15.jpeg",
+        "url":"https://ramiihousingproperty.com/"
+      },
+      {
+        "title":"Ecommerce (WordPress)",
+        "category":"WordPress",
+        "image":"16.jpeg",
+        "url":"https://veilnmore.com/"
+      },
+      {
+        "title":"Tech Firm (React)",
+        "category":"React",
+        "image":"19.jpeg",
+        "url":"https://www.solveswitch.com/"
+      },
+      {
+        "title":"Accounting (Laravel)",
+        "category":"Laravel",
+        "image":"18.jpeg",
+        "url":"https://cartonapp.shop/"
+      },
+      {
+        "title":"Stock Mgt (Laravel)",
+        "category":"Laravel",
+        "image":"17.jpeg",
+        "url":"https://hmedixcallcentre.com/"
+      },
+      {
+        "title":"Mental Health (React)",
+        "category":"React",
+        "image":"01.jpg",
+        "url":"https://comfort-connect-33fad.web.app"
+      },
+      {
+        "title":"NutriLife (React)",
+        "category":"A React based resume website",
+        "image":"13.jpg",
+        "url":"https://nutri-life-2861a.web.app/"
+      },
+      {
+        "title":"Facebook-Firebase (React)",
+        "category":"React",
+        "image":"08.jpg",
+        "url":"https://facebook-clone-e388c.web.app/"
+      },      
+      {
+        "title":"Mental Health App - React JS",
+        "category":"React",
+        "image":"02.jpg",
+        "url":"https://comfort-connect-33fad.web.app"
+      },
+      {
+        "title":"Mental Health App - React JS",
+        "category":"React",
+        "image":"03.jpg",
+        "url":"https://comfort-connect-33fad.web.app"
+      },
+      {
+        "title":"Youtube Clone (React)",
+        "category":"React",
+        "image":"07.jpg",
+        "url":"https://clone-c774f.web.app"
+      },
+      {
+        "title":"Resume Website (React)",
+        "category":"A React based resume website",
+        "image":"04.jpg",
+        "url":"https://igbeajaga.github.io/portfolio/"
+      },       
+      {
+        "title":"Facebook Clone",
+        "category":"React",
+        "image":"09.jpg",
+        "url":"https://facebook-clone-e388c.web.app/"
+      },
+      {
+        "title":"Mental health App - Next JS",
+        "category":"A React based resume website template",
+        "image":"10.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Mental health App - Next JS",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"12.jpg",
+        "url":"#"
+      }      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my tech skills that you may want to know",
+    "education":[
+      {
+        "school":"ALX",
+        "degree":"Software Engineering",
+        "graduated":"Feburary 2023 - March 2024",
+        "description":"The ALX software engineering program embodies a rigorous 12-month curriculum encompassing a comprehensive array of disciplines, ranging from low-level and high-level programming to intricate algorithms and database management. The program further delves into system engineering intricacies and networking essentials. Throughout this journey, I've adeptly navigated various programming languages, proficiently crafting solutions with HTML, CSS, JavaScript, C, and Python. Beyond technical prowess, I assumed the mantle of a Project Manager, steering a team of engineers to success. Leveraging Trello as an instrumental project management tool, I orchestrated and optimized collaborative endeavours with finesse and strategic leadership."
+      },
+      {
+        "school":"PAN African Institute of Professional Studies",
+        "degree":"Web Development, Project Management and Data Analysis",
+        "graduated":"March 2019",
+        "description":"In the realm of web development, I adeptly crafted websites employing a blend of HTML, CSS, JavaScript, and WordPress. Within Project Management, I proficiently utilized Primavera, orchestrating projects seamlessly from inception to execution. In the domain of Data Analysis, post meticulous data collection and refinement, I harnessed the power of SQL and Microsoft Excel to extract actionable insights, empowering strategic decision-making processes."
+      },
+      {
+        "school":"University of Agriculture, Makurdi",
+        "degree":"Bachelor of Science in Statistics and  Computer Science",
+        "graduated":"Feburary 2017",
+        "description":"After consolidating my diverse academic foundations, I elected to specialize in software engineering—an extension of my Computer Science education. I further honed my expertise in data analysis, leveraging my background in Statistics. Additionally, drawing from teachings in both Statistics and Computer Science, I cultivated a profound acumen in Project Management. These educational pursuits collectively form the cornerstone of my professional journey."
+      }
+    ],
+    "work":[
+      {
+        "company":"Ninosglobaltech.com",
+        "title":"Web Developer (Remote)",
+        "years":"March 2025 - Present",
+        "duties": [
+    "• Fullstack web development with Laravel.",
+    "• Web development with WordPress and Elementor (CMS)"
+  ]
+      },
+      {
+        "company":"H-medix.com",
+        "title":"H.O.D Customer care | Data Analyst ",
+        "years":"May 2024 - Present",
+        "duties": [
+    "• Software development.",
+    "• Oversees 13 call centre units in the 13 different branches.",
+    "• Analyses daily, weekly and monthly customer requests from 13 branches to track stock levels and customer care responsiveness to ensure timely restocking by purchasers and improve customer care service.",
+    "• Monitors customer care representatives for daily call responsiveness and reports accuracy.",
+    "• Reports to the Managing Director and the Monitoring & Evaluation team for good decision making"
+  ]
+      },
+      {
+        "company":"Techcase.ng",
+        "title":"Professional IT Trainer ",
+        "years":"Feburary 2023 - March 2024",
+        "duties": [
+    "• Trained pupils in SCRATCH programming.",
+    "• Trained adults/students in web development and data analysis."
+  ]
+      },
+      {
+        "company":"WeAreHereToFixIt.com",
+        "title":"System Analyst",
+        "years":"April 2021 - January 2023",
+        "duties": [
+    "• Proficiently handled diverse responsibilities, including systematic system analysis.",
+    "• Meticulous financial record-keeping.",
+    "• customer support.",
+    "• Troubleshooting, and maintaining system functionality.",
+    "• Conducted IT professional trainings."    
+  ]
+       
+      }
+    ],
+    "skills":[
+      {
+        "name":"PHP (Laravel)",
+        "level":"98%"
+      },
+      {
+        "name":"React JS",
+        "level":"95%"
+      },
+      {
+        "name":"HTML",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"SQL",
+        "level":"100%"
+      },
+      {
+        "name":"WordPress",
+        "level":"100%"
+      },
+      {
+        "name":"Github",
+        "level":"100%"
+      },
+      {
+        "name":"Data Analysis (MS Excel)",
+        "level":"99%"
+      }, 
+      {
+        "name":"Project Management",
+        "level":"95%"
+      },       
+      {
+        "name":"Graphic Design",
+        "level":"95%"
+      }      
+    ]
+  }
+  
+}

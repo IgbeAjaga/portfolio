@@ -9,7 +9,7 @@
     "phone": "+2348166517663",
     "github":"https://github.com/IgbeAjaga",
     "address":{
-      "street":" ",
+      "street":"Airport Road",
       "city":"Abuja",
       "state":"Nigeria",
       "zip": "900107"
@@ -49,13 +49,13 @@
       {
         "title":"CashierPro (Laravel)",
         "category":"Laravel",
-        "image":"01.jpg",
+        "image":"01.jpeg",
         "url":"https://comfort-connect-33fad.web.app"
       },
       {
         "title":"Electro Domain - WordPress",
         "category":"WordPress",
-        "image":"02.jpg",
+        "image":"02.jpeg",
         "url":"https://electro-domain.com/"
       },
       {

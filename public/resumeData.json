@@ -47,41 +47,45 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Oil & Gas (WordPress)",
-        "category":"WordPress",
-        "image":"14.jpeg",
-        "url":"https://jocalshinternational.com/"
-      },
-      {
-        "title":"Cross Checker (Laravel)",
-        "category":"Laravel",
-        "image":"15.jpeg",
-        "url":"https://hmedixcrosschecker.com/"
-      },
-      {
-        "title":"Electro Domain - WordPress",
-        "category":"WordPress",
-        "image":"03.jpg",
-        "url":"https://electro-domain.com/"
-      },
-      {
-        "title":"Tech Firm (React)",
-        "category":"React",
-        "image":"19.jpeg",
-        "url":"https://www.solveswitch.com/"
-      },      
-      {
-        "title":"Stock Mgt (Laravel)",
-        "category":"Laravel",
-        "image":"17.jpeg",
-        "url":"https://hmedixcallcentre.com/"
-      },
-      {
         "title":"CashierPro (Laravel)",
         "category":"Laravel",
         "image":"01.jpg",
         "url":"https://comfort-connect-33fad.web.app"
       },
+      {
+        "title":"Electro Domain - WordPress",
+        "category":"WordPress",
+        "image":"02.jpg",
+        "url":"https://electro-domain.com/"
+      },
+      {
+        "title":"Cross Checker (Laravel)",
+        "category":"Laravel",
+        "image":"03.jpeg",
+        "url":"https://hmedixcrosschecker.com/"
+      },
+
+      {
+        "title":"Oil & Gas (WordPress)",
+        "category":"WordPress",
+        "image":"04.jpeg",
+        "url":"https://jocalshinternational.com/"
+      },
+      {
+        "title":"Stock Mgt (Laravel)",
+        "category":"Laravel",
+        "image":"05.jpeg",
+        "url":"https://hmedixcallcentre.com/"
+      },
+      
+            {
+        "title":"Tech Firm (React)",
+        "category":"React",
+        "image":"06.jpeg",
+        "url":"https://www.solveswitch.com/"
+      },      
+      
+      
       {
         "title":"NutriLife (React)",
         "category":"A React based resume website",

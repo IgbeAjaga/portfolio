@@ -83,64 +83,58 @@
         "category":"React",
         "image":"06.jpeg",
         "url":"https://www.solveswitch.com/"
-      },      
+      },
       
+      {
+        "title":"Accounting (Laravel)",
+        "category":"Laravel",
+        "image":"07.jpeg",
+        "url":"https://cartonapp.shop/"
+      },      
       
       {
         "title":"NutriLife (React)",
         "category":"A React based resume website",
-        "image":"13.jpg",
+        "image":"08.jpg",
         "url":"https://nutri-life-2861a.web.app/"
       },
       {
         "title":"Facebook-Firebase (React)",
         "category":"React",
-        "image":"08.jpg",
+        "image":"09.jpg",
         "url":"https://facebook-clone-e388c.web.app/"
       },      
       {
-        "title":"Mental Health App - React JS",
-        "category":"React",
-        "image":"02.jpg",
+        "title":"Mental Health App - Next JS",
+        "category":"Next",
+        "image":"10.jpg",
         "url":"https://comfort-connect-33fad.web.app"
       },
-      
+      {
+        "title":"Facebook Clone - Next JS",
+        "category":"Next",
+        "image":"11.jpg",
+        "url":"https://facebook-clone-e388c.web.app/"
+      },
+      {
+        "title":"Facebook Clone - Next JS",
+        "category":"Next",
+        "image":"12.jpg",
+        "url":"https://facebook-clone-e388c.web.app/"
+      },      
       {
         "title":"Youtube Clone (React)",
         "category":"React",
-        "image":"07.jpg",
+        "image":"13.jpg",
         "url":"https://clone-c774f.web.app"
       },
       {
         "title":"Resume Website (React)",
         "category":"A React based resume website",
-        "image":"04.jpg",
+        "image":"14.jpg",
         "url":"https://igbeajaga.github.io/portfolio/"
-      },       
-      {
-        "title":"Facebook Clone",
-        "category":"React",
-        "image":"09.jpg",
-        "url":"https://facebook-clone-e388c.web.app/"
-      },
-      {
-        "title":"Mental health App - Next JS",
-        "category":"A React based resume website template",
-        "image":"10.jpg",
-        "url":"#"
-      },
-      {
-        "title":"Mental health App - Next JS",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"12.jpg",
-        "url":"#"
-      },
-      {
-        "title":"Accounting (Laravel)",
-        "category":"Laravel",
-        "image":"18.jpeg",
-        "url":"https://cartonapp.shop/"
       }      
+              
     ]
   },
   "resume":{
